@@ -6,9 +6,7 @@
 <body>
 	<div>
 		<ul><li>Peanut butter</li></ul>
-
-		<ul><li>pan Cake</li></ul>
-
+		<ul><li>pan cake</li></ul>
 		<ul><li>Sugar</li></ul>
 	</div>
 
