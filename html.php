@@ -20,5 +20,12 @@
 		</div>
 	</module-two>
 
+	<module-three>
+		<div>
+			<ul><li>iron</li></ul>
+			<ul><li>rubber</li></ul>
+			<ul><li>plastic</li></ul>
+		</div>
+	</module-two>
 </body>
 </html>
