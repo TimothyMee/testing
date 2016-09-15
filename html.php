@@ -6,8 +6,14 @@
 <body>
 	<div>
 		<ul><li>Peanut butter</li></ul>
-		<ul><li>stone</li></ul>
+		<ul><li>pan cake</li></ul>
 		<ul><li>Sugar</li></ul>
+	</div>
+
+	<div>
+		<ul><li>bar</li></ul>
+		<ul><li>room</li></ul>
+		<ul><li>kitchen</li></ul>
 	</div>
 </body>
 </html>
